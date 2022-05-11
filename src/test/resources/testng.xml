@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="tk.mdogx.bitpanda.test-api" verbose="1" >
+    <test name="Pet API">
+        <classes>
+            <class name="tk.mdogx.bitpanda.Tests"/>
+        </classes>
+    </test>
+</suite>
